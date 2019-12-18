@@ -1,2 +1,5 @@
 Q: What is your favorit color?
 A: My favorit color is green.
+
+Q: What is your age?
+A: I am 30. 
