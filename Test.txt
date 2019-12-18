@@ -4,3 +4,5 @@ Q: Who is your favorite actor?
 A: My favorite actor is Johnny Depp.
 Q: Are you really happy?
 A: Yes I am.
+Q: Where are you going?
+A: I'm going to school.
