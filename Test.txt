@@ -1,2 +1,4 @@
 Q: What is your favorite color?
 A: My favorite color is green.
+Q: Who is your favorite actor?
+A: My favorite actor is Johnny Depp.
